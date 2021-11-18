@@ -1,0 +1,2 @@
+idUser=None
+idNombre = None
